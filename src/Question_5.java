@@ -42,7 +42,7 @@ public class Question_5 {
                         "\tskills:\n" +
                         "\t\t- Java\n" +
                         "\t\t- Spring Boot\n" +
-                        "\t\t- Docker\n";
+                        "\t\t- Docker";
 
         System.out.println("Original YAML:\n----------------\n" + yaml);
         System.out.println("___________________________________________________");
